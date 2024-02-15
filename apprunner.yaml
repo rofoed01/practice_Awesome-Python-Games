@@ -8,6 +8,6 @@ build:
       - pipenv install 
 run: 
 runtime-version: 3.11
-  command: python Code/1- Rock,Paper,Scissors,Spock,Lizard.py
+  command: python3 Code/1- Rock,Paper,Scissors,Spock,Lizard.py
   network: 
     port: 8080
